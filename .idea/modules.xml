@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Frontend/.idea/Frontend.iml" filepath="$PROJECT_DIR$/Frontend/.idea/Frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResumeIQAI.iml" filepath="$PROJECT_DIR$/ResumeIQAI.iml" />
+    </modules>
+  </component>
+</project>
