@@ -5,7 +5,7 @@ import "react-circular-progressbar/dist/styles.css";
 import { PieChart, Pie, Cell, Tooltip, Legend, ResponsiveContainer } from "recharts";
 import "./App.css";
 
-const API = "/api";
+const API = import.meta.env.VITE_API_URL || "/api";
 const scoreColor = (s) => s >= 75 ? "#16a34a" : s >= 50 ? "#f59e0b" : "#dc2626";
 const scoreBg    = (s) => s >= 75 ? "#dcfce7" : s >= 50 ? "#fef3c7" : "#fee2e2";
 
