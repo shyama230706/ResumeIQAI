@@ -32,6 +32,8 @@ ResumeIQ AI analyzes resumes against job descriptions the way an Applicant Track
 
 > Screenshots/GIF coming soon — project is currently run locally, deployment in progress.
 
+
+
 <!-- Add screenshots here once ready, e.g.: -->
 <!-- ![Dashboard Screenshot](./docs/screenshot-dashboard.png) -->
 
